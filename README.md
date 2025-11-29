@@ -9,7 +9,7 @@
 
 ## Contribution:
 **Python Code (Google Colab, presentation version):​**
-- link: https://www.menti.com/al9vbghvbpyx
+- link: [Google Colab](https://colab.research.google.com/drive/1RCvsH56n-QXNJCdTgzuuTqi-OYyTJJsS?usp=sharing)
 - Author: Zijin Xiao​
 - Contributor & Accomodation made by & Hold by: Willa Pepin ​
 
