@@ -3,8 +3,8 @@
 
 
 ## Item Lists:
-- **FinalMap:** Download and run without changing anything
-- **Map+Data:** Original Dataset: shapefiles + orginal code version + instruction to use
+- **FinalMap:** Python code; Download and run without changing anything 
+- **Map+Data:** Original Dataset; Shapefiles + orginal code version + instruction to use this version
 
 
 ## Contribution:
