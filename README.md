@@ -1,14 +1,24 @@
-Contribution:
-Data Source: Canada Government, BC Government, Landsat8 Satellite Images, Translink, etc.
-Data Collection & Processing: ​Xuan Dong; Kelvin Lee; Hengyin Liao; Zijin Xiao; Willa Pepin​
+# Item Lists:
+- **FinalMap:** Download and run without changing anything
+- **Map+Data:** Original Dataset: shapefiles + orginal code version + instruction to use
 
-Python Code (Jupyter Notebook):​ Zijin Xiao​
-Python Code (Google Colab, presentation version):​
-      link: https://www.menti.com/al9vbghvbpyx
-      Author: Zijin Xiao​
-      Contributor: Willa Pepin ​
+# Contribution:
+**Data Source:**
+- Canada Government, BC Government, Landsat8 Satellite Images, Translink, etc.
 
-In-class Presentation:​ Xuan Dong; Kelvin Lee; Hengyin Liao; Zijin Xiao; Willa Pepin
+**Data Collection & Processing:**
+- ​Xuan Dong; Kelvin Lee; Hengyin Liao; Zijin Xiao; Willa Pepin​
 
-Map+Data: Original Dataset; Feel free to download and run on your own end! Remember to change the path link. 
-FinalMap: 
+
+**Python Code (Jupyter Notebook):​**
+- Zijin Xiao​
+
+**Python Code (Google Colab, presentation version):​**
+- link: https://www.menti.com/al9vbghvbpyx
+- Author: Zijin Xiao​
+- Contributor & Hold by: Willa Pepin ​
+
+**In-class Presentation:​**
+- Xuan Dong; Kelvin Lee; Hengyin Liao; Zijin Xiao; Willa Pepin
+
+
