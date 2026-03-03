@@ -8,13 +8,13 @@
 
 
 ## Contribution:
+**Python Code (Jupyter Notebook):​**
+- Zijin Xiao​
+
 **Python Code (Google Colab, presentation version):​**
 - link: [Google Colab](https://colab.research.google.com/drive/1RCvsH56n-QXNJCdTgzuuTqi-OYyTJJsS?usp=sharing)
 - Author: Zijin Xiao​
 - Contributor & Accomodation made by & Hold by: Willa Pepin ​
-
-**Python Code (Jupyter Notebook):​**
-- Zijin Xiao​
 
 **Data Source:**
 - Canada Government, BC Government, Landsat8 Satellite Images, Translink, etc.
